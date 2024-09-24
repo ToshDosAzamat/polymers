@@ -1,0 +1,19 @@
+.heading-name-own{
+    background-image: url('../../component/images/aboutusbg.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.lab-img{
+    width: 100%;
+    border-radius: 10px;
+}
+.device-card{
+    width: 250px;
+    height: 340px;
+    overflow: hidden;
+}
+.device-card-img-top{
+   width: 100%;
+   object-fit: cover;
+}

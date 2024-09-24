@@ -1,0 +1,7 @@
+.own-heading{
+    background-image: linear-gradient(rgb(0,0,0,0.5),rgb(0,0,0,0.5)),url('../images/headingbg.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}

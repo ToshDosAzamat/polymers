@@ -1,0 +1,24 @@
+.order-text {
+    text-indent: 2em;
+    text-align: justify;
+    font-size: 18px;
+    padding: 5px;
+}
+
+.loading-overlay {
+    position: relative;
+    height: 20vh;
+}
+
+.loading-spinner {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgba(255, 255, 255, 0.8); 
+    z-index: 999;
+}

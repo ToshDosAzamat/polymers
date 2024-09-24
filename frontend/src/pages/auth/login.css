@@ -1,0 +1,30 @@
+.own-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Full viewport height */
+}
+.own-login-page{
+    background-image: linear-gradient();
+}
+.own-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    max-width: 400px; /* Set a max-width for the form */
+}
+.mainlogo{
+    width: 200px;
+    height: 200px;
+    margin-bottom: 30px;
+}
+
+.own-input, login-button {
+    margin-top: 20px;
+    width: 100%;
+    margin-bottom: 10px; /* Add some spacing between elements */
+}
+.navbar{
+    border-radius: 10px;
+}
